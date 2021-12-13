@@ -1,0 +1,2 @@
+# nnfromscratch
+Python 3.7.5
